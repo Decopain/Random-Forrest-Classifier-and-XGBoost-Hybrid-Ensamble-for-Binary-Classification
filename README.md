@@ -18,7 +18,7 @@ The primary objective of this notebook is to build an ensemble model that predic
 
 <p align="center">
 First Round of Training: <br/>
-<img src="https://imgur.com/APR94go" height="80%" width="80%" alt=""/>
+<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="APR94go"><a href="https://imgur.com/APR94go">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Second Round of Training:  <br/>
