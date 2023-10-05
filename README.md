@@ -22,11 +22,13 @@ First Round of Training: <br/>
 ![1](https://github.com/Decopain/Random-Forrest-Classifier-and-XGBoost-Hybrid-Ensamble-for-Binary-Classification/assets/17460080/81b279aa-9abd-4470-ab07-ddb6892d0527) 
 <br />
 <br />
+<p align="center">
 Second Round of Training:  <br/>
 
 ![2](https://github.com/Decopain/Random-Forrest-Classifier-and-XGBoost-Hybrid-Ensamble-for-Binary-Classification/assets/17460080/6ecb2c44-304a-476c-b218-302d81c7c90d)
 <br />
 <br />
+<p align="center">
 Final Prediction Results: <br/>
 
 ![IdZnpTY](https://github.com/Decopain/Random-Forrest-Classifier-and-XGBoost-Hybrid-Ensamble-for-Binary-Classification/assets/17460080/1b9e945f-0846-4826-91ea-53748b824637)
