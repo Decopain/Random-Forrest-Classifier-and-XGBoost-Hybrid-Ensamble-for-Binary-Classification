@@ -29,7 +29,7 @@ Second Round of Training:  <br/>
 <br />
 Final Prediction Results: <br/>
 
-<img src="https://imgur.com/IdZnpTY" height="80%" width="80%" alt=""/>
+![IdZnpTY](https://github.com/Decopain/Random-Forrest-Classifier-and-XGBoost-Hybrid-Ensamble-for-Binary-Classification/assets/17460080/1b9e945f-0846-4826-91ea-53748b824637)
 <br />
 </p>
 
