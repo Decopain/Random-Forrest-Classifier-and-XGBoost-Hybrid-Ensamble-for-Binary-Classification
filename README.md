@@ -23,10 +23,12 @@ First Round of Training: <br/>
 <br />
 <br />
 Second Round of Training:  <br/>
-<img src="https://imgur.com/H7fzXCC" height="80%" width="80%" alt=""/>
+
+![2](https://github.com/Decopain/Random-Forrest-Classifier-and-XGBoost-Hybrid-Ensamble-for-Binary-Classification/assets/17460080/6ecb2c44-304a-476c-b218-302d81c7c90d)
 <br />
 <br />
 Final Prediction Results: <br/>
+
 <img src="https://imgur.com/IdZnpTY" height="80%" width="80%" alt=""/>
 <br />
 </p>
