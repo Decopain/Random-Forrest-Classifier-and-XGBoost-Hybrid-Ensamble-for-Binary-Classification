@@ -18,7 +18,7 @@ The primary objective of this notebook is to build an ensemble model that predic
 
 <p align="center">
 First Round of Training: <br/>
-<img src="[https://imgur.com/APR94go](https://github.com/Decopain/Random-Forrest-Classifier-and-XGBoost-Hybrid-Ensamble-for-Binary-Classification/assets/17460080/81b279aa-9abd-4470-ab07-ddb6892d0527)" height="80%" width="80%" alt=""/>
+<img src="![1](https://github.com/Decopain/Random-Forrest-Classifier-and-XGBoost-Hybrid-Ensamble-for-Binary-Classification/assets/17460080/81b279aa-9abd-4470-ab07-ddb6892d0527)" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Second Round of Training:  <br/>
